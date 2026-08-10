@@ -9,3 +9,4 @@ build/
 *.iml
 .DS_Store
 *.log
+.acside/
