@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.InstantLiveServer" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#007AFF</item>
+        <item name="colorPrimaryDark">#0055CC</item>
+        <item name="colorAccent">#007AFF</item>
+        <item name="android:windowBackground">#F2F2F7</item>
+        <item name="android:statusBarColor">#FFFFFF</item>
+    </style>
+</resources>
