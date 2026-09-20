@@ -1,5 +1,5 @@
 # InstantLive Server
-![InstantLiveServer Feature Graphic](https://raw.githubusercontent.com/TechSetuApps/InstantLiveServer/refs/heads/main/FeatureGraphic/FeatureGraphic_Banner.jpg)
+![InstantLiveServer Feature Graphic](https://raw.githubusercontent.com/TechSetuApps/InstantLiveServer/refs/heads/main/Assets/FeatureGraphic_Banner.jpg)
 <p align="center">
   <b>Turn your phone into a live web server</b>
 </p>
@@ -17,16 +17,22 @@ Select any HTML file or folder, and share it over your local network — no clou
 
 ## • Features
 
-- [ <span style="color: #1a43f8;"> One-tap hosting </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/FeatureGraphic/FeaturesRD.md#one-tap-hosting)
-- [ <span style="color: #1a43f8;"> Folder mode </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/FeatureGraphic/FeaturesRD.md#folder-mode)
-- [ <span style="color: #1a43f8;"> Live preview </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/FeatureGraphic/FeaturesRD.md#live-preview)
-- [ <span style="color: #1a43f8;"> Fullscreen Eruda console </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/FeatureGraphic/FeaturesRD.md#fullscreen-eruda-console)
-- [ <span style="color: #1a43f8;">  Network sharing </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/FeatureGraphic/FeaturesRD.md#network-sharing)
-- [ <span style="color: #1a43f8;"> Virtual filesystem </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/FeatureGraphic/FeaturesRD.md#virtual-filesystem)
-- [ <span style="color: #1a43f8;"> Ad-supported </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/FeatureGraphic/FeaturesRD.md#ad-supported)
-- [ <span style="color: #1a43f8;"> Update checker </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/FeatureGraphic/FeaturesRD.md#update-checker)
-- [ <span style="color: #1a43f8;"> Force update </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/FeatureGraphic/FeaturesRD.md#force-update)
-- [ <span style="color: #1a43f8;"> Portrait-locked </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/FeatureGraphic/FeaturesRD.md#portrait-locked)
+- [ <span style="color: #1a43f8;"> One-tap hosting </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/Assets/FeaturesRD.md#one-tap-hosting)
+- [ <span style="color: #1a43f8;"> Folder mode </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/Assets/FeaturesRD.md#folder-mode)
+- [ <span style="color: #1a43f8;"> Live preview </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/Assets/FeaturesRD.md#live-preview)
+- [ <span style="color: #1a43f8;"> Fullscreen Eruda console </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/Assets/FeaturesRD.md#fullscreen-eruda-console)
+- [ <span style="color: #1a43f8;">  Network sharing </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/Assets/FeaturesRD.md#network-sharing)
+- [ <span style="color: #1a43f8;"> Virtual filesystem </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/Assets/FeaturesRD.md#virtual-filesystem)
+- [ <span style="color: #1a43f8;"> Ad-supported </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/Assets/FeaturesRD.md#ad-supported)
+- [ <span style="color: #1a43f8;"> Update checker </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/Assets/FeaturesRD.md#update-checker)
+- [ <span style="color: #1a43f8;"> Force update </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/Assets/FeaturesRD.md#force-update)
+- [ <span style="color: #1a43f8;"> Portrait-locked </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/Assets/FeaturesRD.md#portrait-locked)
+
+## • Installtion
+
+***You can get InstantLiveServer from popular platform:***
+
+[<img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png" alt="Get it on Amazon Appstore" height="45">](https://www.amazon.com/gp/product/B0GTHYKF7D) [<img src="https://raw.githubusercontent.com/TechSetuApps/InstantLiveServer/refs/heads/main/Assets/get-it-on-github.png" alt="Get it on GitHub" height="45">](https://github.com/TechSetuApps/InstantLiveServer/releases/download/v1.4.0/app-release.apk)
 
 ## • How I Made It
 
