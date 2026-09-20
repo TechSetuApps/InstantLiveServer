@@ -28,7 +28,7 @@ Select any HTML file or folder, and share it over your local network — no clou
 - [ <span style="color: #1a43f8;"> Force update </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/Assets/FeaturesRD.md#force-update)
 - [ <span style="color: #1a43f8;"> Portrait-locked </span>](https://github.com/TechSetuApps/InstantLiveServer/blob/main/Assets/FeaturesRD.md#portrait-locked)
 
-## • Installtion
+## • Installation
 
 ***You can get InstantLiveServer from popular platform:***
 
