@@ -7,13 +7,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
 [![Platform](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com)
 [![Language](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Version](https://img.shields.io/badge/v1.4.0-0097A7?style=flat)](https://github.com/TechSetuApps/InstantLiveServer/releases)
+[![Version](https://img.shields.io/badge/v1.4.1-0097A7?style=flat)](https://github.com/TechSetuApps/InstantLiveServer/releases)
 
 ## • Overview
 
-Welcome to InstantLive Server — a lightweight, </br> on-device web server for instant HTML preview </br> and live sharing. Built for developers and learners.
+Welcome to InstantLive Server — a lightweight, <br> on-device web server for instant HTML preview <br> and live sharing. Built for developers and learners.
 
-Select any HTML file or folder, and share it over your local network — no cloud, no upload, no signup. </br> The built-in WebView provides live preview with </br> auto-reload, and a fullscreen Eruda console for </br> real-time debugging.
+Select any HTML file or folder, and share it over your local network — no cloud, no upload, no signup. <br> The built-in WebView provides live preview with <br> auto-reload, and a fullscreen Eruda console for <br> real-time debugging.
 
 ## • Features
 
@@ -32,7 +32,7 @@ Select any HTML file or folder, and share it over your local network — no clou
 
 ***You can get InstantLiveServer from popular platform:***
 
-[<img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png" alt="Get it on Amazon Appstore" height="45">](https://www.amazon.com/gp/product/B0GTHYKF7D) [<img src="https://raw.githubusercontent.com/TechSetuApps/InstantLiveServer/refs/heads/main/Assets/get-it-on-github.png" alt="Get it on GitHub" height="45">](https://github.com/TechSetuApps/InstantLiveServer/releases/download/v1.4.0/app-release.apk)
+[<img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png" alt="Get it on Amazon Appstore" height="45">](https://www.amazon.com/gp/product/B0GTHYKF7D) [<img src="https://raw.githubusercontent.com/TechSetuApps/InstantLiveServer/refs/heads/main/Assets/get-it-on-github.png" alt="Get it on GitHub" height="45">](https://github.com/TechSetuApps/InstantLiveServer/releases/latest)
 
 ## • How I Made It
 
@@ -166,9 +166,9 @@ This project is open to security review. If you are an ethical hacker, security 
 **TechSetuApps** — Independent developer & ethical hacking enthusiast
 
 - GitHub: [TechSetuApps](https://github.com/TechSetuApps)
-- Email: [techsetuapps@gmail.com](mailto:techsetuapps@gmail.com)
+- Email: [techsetuappsofficial@gmail.com](mailto:techsetuappsofficial@gmail.com)
 - License: MIT
-- Version: 1.4.0 (Stable)
+- Version: 1.4.1 (Stable)
 
 *Concept and design by TechSetuApps. Code written with AI assistance while learning Kotlin. Learning security auditing — reports and suggestions welcome.*
 
