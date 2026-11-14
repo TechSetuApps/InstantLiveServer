@@ -135,7 +135,7 @@
 
 ---
 
-> **Version** 1.4.0 (Build 5)  
-> **Updated** August 2026  
+> **Version** 1.4.1 (Build 6)  
+> **Updated** November 2026  
 > **License** MIT  
 > **Developer** TechSetuApps — Darbhanga, Bihar, India
