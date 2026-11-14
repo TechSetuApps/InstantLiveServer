@@ -629,7 +629,12 @@ li{color:#374151;margin-bottom:4px;}
 <li>Any content or products shown in third-party advertisements.</li>
 </ul>
 <div class="warn"><svg style='width:14px;height:14px;vertical-align:middle;margin-right:4px' viewBox='0 0 24 24'><path fill='#92400E' d='M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z'/></svg>Do not host sensitive, confidential, or private information. You are solely responsible for the content you serve.</div>
-<h2>What's New in v1.4.0</h2>
+<h2>What's New in v1.4.1</h2>
+<ul>
+<li><b>New Contact Email:</b> Bug reports and feedback now go to <b>techsetuappsofficial@gmail.com</b>.</li>
+<li><b>Maintenance Update:</b> A small maintenance release — no feature or behavior changes.</li>
+</ul>
+<h2>v1.4.0 Highlights</h2>
 <ul>
 <li><b>Virtual File System (VFS):</b> All hosted files now live in RAM — zero disk writes, zero file residue after hosting ends.</li>
 <li><b>Relative Path Support:</b> Your HTML can now reference assets with relative paths like <code>src="css/style.css"</code> or <code>src="images/logo.png"</code> — they just work!</li>
@@ -659,7 +664,7 @@ li{color:#374151;margin-bottom:5px;}
 .chip svg,.adchip svg{vertical-align:text-bottom;position:relative;top:0px;}
 </style></head><body>
 <h1>Privacy Policy</h1>
-<p class="sub">Last updated: August 2026 &nbsp;|&nbsp; <span class="chip"><svg style='width:12px;height:12px;vertical-align:middle;margin-right:2px' viewBox='0 0 24 24'><path fill='#059669' d='M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z'/></svg>No personal data collected</span> &nbsp;<span class="adchip"><svg style='width:12px;height:12px;vertical-align:middle;margin-right:2px' viewBox='0 0 24 24'><path fill='#92400E' d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z'/></svg>Contains Ads</span></p>
+<p class="sub">Last updated: November 2026 &nbsp;|&nbsp; <span class="chip"><svg style='width:12px;height:12px;vertical-align:middle;margin-right:2px' viewBox='0 0 24 24'><path fill='#059669' d='M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z'/></svg>No personal data collected</span> &nbsp;<span class="adchip"><svg style='width:12px;height:12px;vertical-align:middle;margin-right:2px' viewBox='0 0 24 24'><path fill='#92400E' d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z'/></svg>Contains Ads</span></p>
 <h2>Overview</h2>
 <p>InstantLive Server ("we", "our", "the app") is a local HTML file hosting tool that lets you serve web pages from your Android device. We are committed to protecting your privacy. This policy explains what data we access and why.</p>
 <div class="note"><svg style='width:14px;height:14px;flex-shrink:0;margin-top:2px' viewBox='0 0 24 24'><path fill='#0C4A6E' d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z'/></svg><span style="flex:1;min-width:0;">This app is <b>open source</b> under the MIT License. Source code available at <a href="https://github.com/TechSetuApps/InstantLiveServer" style="color:#1e40af;font-weight:700;">github.com/TechSetuApps/InstantLiveServer</a> for full audit.</span></div>
@@ -700,7 +705,7 @@ li{color:#374151;margin-bottom:5px;}
 </ul>
 <h2>Contact</h2>
 <p>For privacy-related queries, contact:<br>
-<a href="mailto:techsetuapps@gmail.com" style="color:#2563EB;font-weight:700;">techsetuapps@gmail.com</a></p>
+<a href="mailto:techsetuappsofficial@gmail.com" style="color:#2563EB;font-weight:700;">techsetuappsofficial@gmail.com</a></p>
 <div style="height:40px;"></div>
 </body></html>"""
 
@@ -813,7 +818,7 @@ h1{font-size:20px;font-weight:700;color:#111827;margin-bottom:4px;}
 .dev .loc{color:#60A5FA;font-size:12px;margin-top:6px;}
 </style></head><body>
 <h1>Credits</h1>
-<p class="sub">Open source libraries used in InstantLive Server v1.4.0</p>
+<p class="sub">Open source libraries used in InstantLive Server v1.4.1</p>
 <div class="dev">
 <div style="width:48px;height:48px;background:#2563EB;border-radius:12px;display:flex;align-items:center;justify-content:center;margin:0 auto 12px;font-size:22px;font-weight:900;color:white;">W</div>
 <h2>TechSetuApps</h2>
@@ -856,7 +861,7 @@ h1{font-size:20px;font-weight:700;color:#111827;margin-bottom:4px;}
 <p>UI components following Material Design guidelines.</p>
 <p style="color:#6B7280;font-size:12px;">© Google LLC</p>
 </div>
-<p style="color:#9CA3AF;font-size:12px;text-align:center;margin-top:16px;">InstantLive Server v1.4.0 (Build 5) &nbsp;•&nbsp; All original code © TechSetuApps 2026</p>
+<p style="color:#9CA3AF;font-size:12px;text-align:center;margin-top:16px;">InstantLive Server v1.4.1 (Build 6) &nbsp;•&nbsp; All original code © TechSetuApps 2026</p>
 </body></html>"""
 
 fun MainActivity.showHelpPage() {
@@ -1261,7 +1266,7 @@ h1{font-size:20px;font-weight:800;color:#111827;margin-bottom:4px;}
 <div class="bug-card">
   <p>If you have encountered a bug or are facing any issue with InstantLive Server, please let us know. Tap the button below and describe the problem — we will work on a fix as soon as possible.</p>
   <p><strong>Thank you for helping us improve InstantLive Server!</strong></p>
-  <a class="btn" href="mailto:techsetuapps@gmail.com?subject=Troubleshooting%2FBug%20Report%20-%20InstantLive Server"><svg width='16' height='16' viewBox='0 0 24 24' fill='white'><path d='M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z'/></svg> Report a Bug</a>
+  <a class="btn" href="mailto:techsetuappsofficial@gmail.com?subject=Troubleshooting%2FBug%20Report%20-%20InstantLive Server"><svg width='16' height='16' viewBox='0 0 24 24' fill='white'><path d='M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z'/></svg> Report a Bug</a>
 </div>
 </div>
 
@@ -1296,7 +1301,7 @@ h1{font-size:20px;font-weight:800;color:#111827;margin-bottom:4px;}
 <div class="card">
   <h2><svg style='width:16px;height:16px;vertical-align:middle;margin-right:4px' viewBox='0 0 24 24'><path fill='#111827' d='M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z'/></svg>Send Feedback</h2>
   <p>Have a suggestion or feature request? We would love to hear from you. Tap below to send us your feedback directly.</p>
-  <a class="btn" href="mailto:techsetuapps@gmail.com?subject=InstantLive Server_Feedback"><svg width='16' height='16' viewBox='0 0 24 24' fill='white'><path d='M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z'/></svg> Send Feedback</a>
+  <a class="btn" href="mailto:techsetuappsofficial@gmail.com?subject=InstantLive Server_Feedback"><svg width='16' height='16' viewBox='0 0 24 24' fill='white'><path d='M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z'/></svg> Send Feedback</a>
 </div>
 
 <div class="section-title">Connect With Us</div>
