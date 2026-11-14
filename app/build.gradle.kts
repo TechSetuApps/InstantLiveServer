@@ -11,8 +11,8 @@ android {
         applicationId = "app.techsetuapps.instantweb"
         minSdk = 24
         targetSdk = 35
-        versionCode = 5
-        versionName = "1.4.0"
+        versionCode = 6
+        versionName = "1.4.1"
     }
 
     // Signing config — placeholder keystore for open-source build.
